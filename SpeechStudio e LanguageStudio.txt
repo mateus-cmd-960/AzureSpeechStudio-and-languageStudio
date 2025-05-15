@@ -1,0 +1,15 @@
+
+
+
+O Speech Studio é um conjunto de ferramentas baseadas em interface de usuário para 
+criar e integrar recursos do serviço de IA do Azure em seus aplicativos. 
+Você cria projetos no Speech Studio usando uma abordagem sem código e, em seguida, 
+referencia esses ativos em seus aplicativos usando o Speech SDK, a CLI do Speech ou as APIs REST. Permite tradução de áudio em escrita
+e a conversão de escrita para áudio.
+
+
+   
+O Language Studio é um conjunto de ferramentas baseadas em interface de usuário que permite explorar,
+ criar e integrar recursos do Azure AI Language em seus aplicativos. O Language Studio oferece uma plataforma 
+para você experimentar diversos recursos de serviço e ver o que eles retornam de forma visual.
+
