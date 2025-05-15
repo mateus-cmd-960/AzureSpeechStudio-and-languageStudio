@@ -1,2 +1,2 @@
 # AzureSpeechStudio-and-languageStudio
-Neste desafio responderemos perguntas como:
+Neste desafio vamos abordar sobre o uso destas ferramentas
